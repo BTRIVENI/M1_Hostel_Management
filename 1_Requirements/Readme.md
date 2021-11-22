@@ -13,3 +13,6 @@ The usual practices in accommodating students at  Lagos  State  University,  as 
 * user must allow the warden to add new users to the system’s database.
 * user must allow to put hold on a room if any  room is not available at the moment.
 * user must allow the guardian to cancel the registration from the system’s database who will leave room.
+## SWOT ANALYSIS
+![SWOT-analysis](https://user-images.githubusercontent.com/78525873/142874290-cb2f56c0-7523-4382-b5b5-467185eede04.png)
+
