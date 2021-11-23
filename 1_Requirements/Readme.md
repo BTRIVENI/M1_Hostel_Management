@@ -15,4 +15,19 @@ The usual practices in accommodating students at  Lagos  State  University,  as 
 * user must allow the guardian to cancel the registration from the system’s database who will leave room.
 ## SWOT ANALYSIS
 ![SWOT-analysis](https://user-images.githubusercontent.com/78525873/142874290-cb2f56c0-7523-4382-b5b5-467185eede04.png)
+# Who
+
+The students or employees who are away from the home. 
+
+# When 
+
+The problem was encountered whenever the person relocates from one place to another place for their studies or job.
+
+# Where
+
+When the person relocates to different city.
+
+
+
+
 
