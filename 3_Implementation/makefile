@@ -3,7 +3,7 @@
 # Name of the project
 PROJ NAME = hostel_management
 # All source code files
-SRC = hostel_management.c functions.h
+SRC = hostel_management.c test.h
 # All test source files
 TEST_SRC = 3_Implementation/.c\
 test/test_hostel_management.c\
